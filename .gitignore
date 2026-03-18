@@ -1,0 +1,26 @@
+# Local runtimes and packaged bundles
+python/
+NTAAwesome/
+NTAwesome2/
+portable-test/
+dist/
+*.zip
+
+# Bootstrap downloads
+bootstrap/*.zip
+bootstrap/*.exe
+
+# Local data and outputs
+Test data/
+**/NTAwesome Output/
+*.csv
+*.pdf
+
+# Python cache
+__pycache__/
+app/__pycache__/
+*.pyc
+*.pyo
+
+# Local-only duplicate script copy
+/zetaview_plotter.py

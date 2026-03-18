@@ -1,0 +1,7 @@
+PyPDF2
+fcsparser
+pandas
+numpy
+matplotlib
+seaborn
+scipy
